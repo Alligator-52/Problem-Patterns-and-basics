@@ -1,12 +1,12 @@
 # Problem Patterns and Basics
 
 ## Index
-1. [Right Rotation of an Array/List](#right-rotation-of-an-arraylist)
-2. [Left Rotation of an Array/List](#left-rotation-of-an-arraylist)
+1. [Right Rotation of an Array](#right-rotation-of-an-array)
+2. [Left Rotation of an Array](#left-rotation-of-an-array)
 
 ---
 
-## Right Rotation of an Array/List
+## Right Rotation of an Array
 
 ### Problem
 Given an array/list, rotate it `k` times to the right. Each rotation shifts all elements one position to the right, with the last element wrapping around to the beginning.
@@ -84,7 +84,7 @@ void RightRotateOptimal(int[] arr, int k) {
 
 ---
 
-## Left Rotation of an Array/List
+## Left Rotation of an Array
 
 ### Problem
 Given an array/list, rotate it `k` times to the left. Each rotation shifts all elements one position to the left, with the first element wrapping around to the end.
